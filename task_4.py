@@ -1,3 +1,4 @@
+#use "python task_4.py <json-file name>" 
 from sys import argv
 from json import loads, dumps
 from datetime import datetime
